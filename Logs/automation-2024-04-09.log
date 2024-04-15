@@ -1,0 +1,60 @@
+20:30:29.930 [main] INFO  TestCase.TC_001_LoginTest - Staring of login Test 
+20:30:29.952 [main] DEBUG TestCase.TC_001_LoginTest - Capturing application debug logs
+20:30:29.995 [main] INFO  TestCase.TC_001_LoginTest - CLick action on login link 
+20:30:30.759 [main] INFO  TestCase.TC_001_LoginTest - Enterig the valid data to login 
+20:30:32.007 [main] ERROR TestCase.TC_001_LoginTest - Login Test failed
+20:31:16.882 [main] INFO  TestCase.TC_001_LoginTest - Staring of login Test 
+20:31:16.898 [main] DEBUG TestCase.TC_001_LoginTest - Capturing application debug logs
+20:31:16.936 [main] INFO  TestCase.TC_001_LoginTest - CLick action on login link 
+20:31:17.917 [main] INFO  TestCase.TC_001_LoginTest - Enterig the valid data to login 
+20:31:19.785 [main] INFO  TestCase.TC_001_LoginTest - Login Test Passed 
+20:31:19.791 [main] INFO  TestCase.TC_001_LoginTest - ***Login test finished ***
+20:31:27.799 [main] INFO  TestCase.TC_003_Searchbarresult - Entering the seacrh data 
+20:31:28.040 [main] INFO  TestCase.TC_003_Searchbarresult - Clicking on  the seacrh data 
+20:32:58.420 [main] INFO  TestCase.TC_001_LoginTest - Staring of login Test 
+20:32:58.432 [main] DEBUG TestCase.TC_001_LoginTest - Capturing application debug logs
+20:32:58.478 [main] INFO  TestCase.TC_001_LoginTest - CLick action on login link 
+20:32:59.539 [main] INFO  TestCase.TC_001_LoginTest - Enterig the valid data to login 
+20:33:01.022 [main] INFO  TestCase.TC_001_LoginTest - Login Test Passed 
+20:33:01.030 [main] INFO  TestCase.TC_001_LoginTest - ***Login test finished ***
+20:33:07.754 [main] INFO  TestCase.TC_003_Searchbarresult - Entering the seacrh data 
+20:33:08.203 [main] INFO  TestCase.TC_003_Searchbarresult - Clicking on  the seacrh data 
+20:33:19.465 [main] DEBUG TestCase.TC_004AddToCart - Capturing application debug logs
+20:42:51.064 [main] INFO  TestCase.TC_001_LoginTest - Staring of login Test 
+20:42:51.096 [main] DEBUG TestCase.TC_001_LoginTest - Capturing application debug logs
+20:42:51.130 [main] INFO  TestCase.TC_001_LoginTest - CLick action on login link 
+20:42:51.887 [main] INFO  TestCase.TC_001_LoginTest - Enterig the valid data to login 
+20:42:54.429 [main] INFO  TestCase.TC_001_LoginTest - Login Test Passed 
+20:42:54.445 [main] INFO  TestCase.TC_001_LoginTest - ***Login test finished ***
+20:43:01.216 [main] INFO  TestCase.TC_003_Searchbarresult - Entering the seacrh data 
+20:43:01.482 [main] INFO  TestCase.TC_003_Searchbarresult - Clicking on  the seacrh data 
+20:43:13.115 [main] INFO  TestCase.TC_004AddToCart - Entering the seacrh data 
+20:43:13.493 [main] INFO  TestCase.TC_004AddToCart - Clicking on  the seacrh data 
+20:43:17.428 [main] INFO  TestCase.TC_004AddToCart - Click action on product name 
+20:43:19.774 [main] INFO  TestCase.TC_004AddToCart - Adding product to the cart
+20:43:19.991 [main] INFO  TestCase.TC_004AddToCart - Checking item list of added product 
+21:08:40.907 [main] INFO  TestCase.TC_001_LoginTest - Staring of login Test 
+21:08:40.941 [main] DEBUG TestCase.TC_001_LoginTest - Capturing application debug logs
+21:08:40.962 [main] INFO  TestCase.TC_001_LoginTest - CLick action on login link 
+21:08:41.594 [main] INFO  TestCase.TC_001_LoginTest - Enterig the valid data to login 
+21:08:43.102 [main] INFO  TestCase.TC_001_LoginTest - Login Test Passed 
+21:08:43.105 [main] INFO  TestCase.TC_001_LoginTest - ***Login test finished ***
+21:08:49.161 [main] INFO  TestCase.TC_003_Searchbarresult - Entering the seacrh data 
+21:08:49.324 [main] INFO  TestCase.TC_003_Searchbarresult - Clicking on  the seacrh data 
+21:09:13.899 [main] INFO  TestCase.TC_004AddToCart - CLick action on login link 
+21:09:14.415 [main] INFO  TestCase.TC_004AddToCart - Enterig the valid data to login 
+21:09:15.252 [main] INFO  TestCase.TC_004AddToCart - Entering the seacrh data 
+21:09:15.330 [main] INFO  TestCase.TC_004AddToCart - Clicking on  the seacrh data 
+21:09:20.054 [main] INFO  TestCase.TC_004AddToCart - Click action on product name 
+21:09:21.716 [main] INFO  TestCase.TC_004AddToCart - Adding product to the cart
+21:09:21.771 [main] INFO  TestCase.TC_004AddToCart - Checking item list of added product 
+21:10:26.357 [main] INFO  TestCase.TC_001_LoginTest - Staring of login Test 
+21:10:26.366 [main] DEBUG TestCase.TC_001_LoginTest - Capturing application debug logs
+21:10:26.389 [main] INFO  TestCase.TC_001_LoginTest - CLick action on login link 
+21:10:27.675 [main] INFO  TestCase.TC_001_LoginTest - Enterig the valid data to login 
+21:10:28.994 [main] INFO  TestCase.TC_001_LoginTest - Login Test Passed 
+21:10:28.999 [main] INFO  TestCase.TC_001_LoginTest - ***Login test finished ***
+21:10:35.346 [main] INFO  TestCase.TC_003_Searchbarresult - Entering the seacrh data 
+21:10:35.550 [main] INFO  TestCase.TC_003_Searchbarresult - Clicking on  the seacrh data 
+21:10:45.589 [main] INFO  TestCase.TC_004AddToCart - CLick action on login link 
+21:10:46.558 [main] INFO  TestCase.TC_004AddToCart - Enterig the valid data to login 

@@ -1,0 +1,46 @@
+16:39:40.307 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the seacrh data 
+16:39:40.397 [main] INFO  TestCase.TC_005CheckOutTestCase - Clicking on  the seacrh data 
+16:40:04.676 [main] INFO  TestCase.TC_005CheckOutTestCase - Click action on product name 
+16:40:09.337 [main] INFO  TestCase.TC_005CheckOutTestCase - Click action on please select size  
+16:40:09.491 [main] INFO  TestCase.TC_005CheckOutTestCase - Click action on selected size
+16:40:09.567 [main] INFO  TestCase.TC_005CheckOutTestCase - Adding product to the cart
+16:40:10.618 [main] INFO  TestCase.TC_005CheckOutTestCase - Checking item list of added product 
+16:40:10.732 [main] INFO  TestCase.TC_005CheckOutTestCase - Click action at checkout of view items
+16:40:11.075 [main] INFO  TestCase.TC_005CheckOutTestCase - CLcik on Bill new address 
+16:40:11.394 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the First Name for Bill Details 
+16:40:11.535 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the last name for Bill details
+16:40:11.632 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Comapny name for Bill details
+16:40:11.714 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Address 1 for Bill details
+16:40:11.801 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Address 2 for Bill details
+16:40:11.893 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the City name for Bill details
+16:40:11.972 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Post code for Bill details
+16:40:12.063 [main] INFO  TestCase.TC_005CheckOutTestCase - Click on the Country for Bill details
+16:40:12.105 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Country name for Bill details
+16:40:12.185 [main] INFO  TestCase.TC_005CheckOutTestCase - Click on  the Region Bill details
+16:40:12.215 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Region name for Bill details
+16:40:12.775 [main] INFO  TestCase.TC_005CheckOutTestCase - Click on the Continue to the Delivery Details
+16:40:13.073 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering First name for delivery
+16:40:13.310 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the last name for Delivery
+16:40:13.486 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the comapny name for delivery
+16:40:13.587 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Delivery addres 1
+16:40:13.818 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Delivery addres 2
+16:40:14.094 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Delivery City name 
+16:40:14.185 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the country name for delivery details
+16:40:14.211 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Country name for Delivery details
+16:40:14.273 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Region name for delivery details
+16:40:14.303 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the Region  name for Bill details
+16:40:14.463 [main] INFO  TestCase.TC_005CheckOutTestCase - Click on continue button of delivery
+16:40:14.518 [main] INFO  TestCase.TC_005CheckOutTestCase - Clicking on delivery method continue button
+16:40:14.893 [main] INFO  TestCase.TC_005CheckOutTestCase - Clicking on Payment Cash on delivery option
+16:40:15.194 [main] INFO  TestCase.TC_005CheckOutTestCase - Accepting teh Terms And Condition
+16:40:15.527 [main] INFO  TestCase.TC_005CheckOutTestCase - Clcik on continue near TC 
+16:40:15.580 [main] INFO  TestCase.TC_005CheckOutTestCase - clcik on confirm order
+12:12:47.889 [main] INFO  TestCase.TC_005CheckOutTestCase - CLick action on login link 
+12:12:48.509 [main] INFO  TestCase.TC_005CheckOutTestCase - Enterig the valid data to login 
+12:12:50.333 [main] INFO  TestCase.TC_005CheckOutTestCase - Entering the seacrh data 
+12:12:50.441 [main] INFO  TestCase.TC_005CheckOutTestCase - Clicking on  the seacrh data 
+12:12:52.675 [main] INFO  TestCase.TC_005CheckOutTestCase - Click action on product name 
+12:12:53.771 [main] INFO  TestCase.TC_005CheckOutTestCase - Click action on please select size  
+12:12:53.889 [main] INFO  TestCase.TC_005CheckOutTestCase - Click action on selected size
+12:12:53.958 [main] INFO  TestCase.TC_005CheckOutTestCase - Adding product to the cart
+12:12:54.079 [main] INFO  TestCase.TC_005CheckOutTestCase - Checking item list of added product 
